@@ -1,0 +1,15 @@
+.controller.edit {
+    background: url(https://i.imgur.com/6XKavyX.png);
+}
+
+.edit .button {
+    background: url(https://i.imgur.com/4teYmtT.png);
+}
+
+.edit .stick {
+    background: url(https://i.imgur.com/PIKMcq1.png);
+}
+
+.edit .face {
+    background: url(https://i.imgur.com/AGTTyUT.png);
+}
