@@ -2,7 +2,9 @@
 .controller.custom {
     background: url(https://mrmcpowned.com/gamepad/ps4-assets/base.svgz);
     height: 598px;
-    width: 806px;
+    width: 806px; 
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
