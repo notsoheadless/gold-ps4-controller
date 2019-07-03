@@ -1,9 +1,7 @@
-/*BEGIN PS4 Controller Styling*/
 .controller.custom {
     background: url(https://i.imgur.com/6XKavyX.png);
     height: 598px;
     width: 806px;
-    /*    margin-left: -403px;
         margin-top: -280px;*/
 }
 
@@ -58,8 +56,6 @@
 }
 
 .custom .bumper.left {
-    /* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
     float: left;
 }
 
@@ -68,27 +64,6 @@
     transform: rotateY(180deg);
 }
 
-/*Not needed, but I like keeping them here for posterity*/
-/*.ds4 .quadrant{
-position: absolute;
-background: url(ps4-assets/player-n.svgz);
-height: 17px;
-width: 111px;
-top: 140px;
-left: 240px;
-}
-.ds4 .p0{
-background-position: 0 -6px;
-}
-.ds4 .p1{
-background-position: 0 -28px;
-}
-.ds4 .p2{
-background-position: 0 -49px;
-}
-.ds4 .p3{
-background-position: 0 -70px;
-}*/
 .custom .arrows {
     position: absolute;
     width: 352px;
@@ -105,19 +80,15 @@ background-position: 0 -70px;
 }
 
 .custom .back.pressed, .custom .start.pressed {
-    /* background-position-y: -21px; */
-    /* margin-top: 2px; */
     opacity: 1;
 }
 
 .custom .back {
     float: left;
-    /* width: 28px; */
 }
 
 .custom .start {
     float: right;
-    /* width: 28px; */
     background-position: 28px 0;
 }
 
@@ -138,7 +109,6 @@ background-position: 0 -70px;
 
 .custom .button.pressed {
     background-position-y: 55px;
-    /* margin-top: 5px; */
 }
 
 .custom .a {
@@ -244,14 +214,9 @@ background-position: 0 -70px;
 }
 
 .custom .face.pressed {
-    /* margin-top: 5px; */
     background-position-y: 52px;
 }
 
 .custom.half {
     margin-top: -300px;
 }
-
-/*END PS4 Controller Styling*/
-
-/*END PS4 Controller Styling*/
