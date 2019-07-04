@@ -3,8 +3,8 @@
     background: url(tex/gold-base.svgz);
     height: 598px;
     width: 806px;
-    /*    margin-left: -403px;
-        margin-top: -280px;*/
+    margin-left: -403px;
+    margin-top: -280px;
 }
 
 .custom.disconnected {
