@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/base.svgz);
+    background: url(tex/gold-base.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/disconnected.svgz);
+    background: url(tex/disconnected.svgz);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/triggers.svgz);
+    background: url(tex/triggers.svgz);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/bumper.svgz);
+    background: url(tex/bumper.svgz);
     no-repeat;
     opacity: 0;
 }
@@ -99,7 +99,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/start.svgz);
+    background: url(tex/start.svgz);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -134,7 +134,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/face.svgz);
+    background: url(tex/gold-face.svgz);
 }
 
 .custom .button.pressed {
@@ -174,7 +174,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(http://i.imgur.com/Ypu7nW5.png);
+    background: url(tex/gold-sticks.svgz);
     height: 94px;
     width: 94px;
 }
@@ -206,7 +206,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://mrmcpowned.com/gamepad/ps4-assets/dpad.svgz);
+    background: url(tex/gold-dpad.svgz);
     position: absolute;
 }
 
